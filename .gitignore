@@ -10,6 +10,8 @@ db.sqlite3
 db.sqlite3-journal
 media
 
+/pollster/pollster/secrets.py
+
 
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
@@ -231,6 +233,8 @@ cython_debug/
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+.DS_Store
 
 
 # Local History for Visual Studio Code
